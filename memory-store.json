@@ -1,0 +1,22 @@
+{
+  "memory": [
+    {
+      "id": "dashboard_ai_001",
+      "category": "dashboard",
+      "input_summary": "AI analytics dashboard",
+      "decisions": {
+        "layout": "sidebar + topbar",
+        "navigation": "tab-based",
+        "density": "medium"
+      },
+      "design_patterns": [
+        "card-based UI",
+        "data widgets",
+        "progress indicators"
+      ],
+      "tech_stack": ["React", "Tailwind"],
+      "success_score": 9,
+      "tags": ["scalable", "clean"]
+    }
+  ]
+}

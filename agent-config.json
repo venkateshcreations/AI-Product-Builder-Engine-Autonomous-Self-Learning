@@ -1,0 +1,27 @@
+{
+  "system": "AI-Product-Builder-Engine-Autonomus-Self-Learning",
+  "version": "2.0",
+  "execution_mode": "autonomous_self_learning",
+
+  "agents": [
+    { "id": "router", "file": "prompt-router.md" },
+    { "id": "orchestrator", "file": "auto-orchestrator.md" },
+    { "id": "memory_engine", "file": "memory-engine.md" },
+    { "id": "learning_loop", "file": "learning-loop.md" },
+    { "id": "ux_brain", "file": "ux-brainstorming.skill.md" },
+    { "id": "ui_designer", "file": "ui-designer.skill.md" },
+    { "id": "design_system", "file": "design-system.skill.md" },
+    { "id": "frontend_engineer", "file": "frontend-generator.skill.md" }
+  ],
+
+  "pipeline": {
+    "design": [
+      "memory_engine",
+      "ux_brain",
+      "ui_designer",
+      "design_system",
+      "frontend_engineer",
+      "learning_loop"
+    ]
+  }
+}

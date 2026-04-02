@@ -1,0 +1,13 @@
+# ⚡ Run Command — AI-Product-Builder-Engine-Autonomus-Self-Learning
+
+## Command
+
+"Analyze the following input using AI-Product-Builder-Engine-Autonomus-Self-Learning system.
+
+Step 1: Use prompt-router.md to detect intent  
+Step 2: Trigger auto-orchestrator.md  
+Step 3: Execute full pipeline  
+Step 4: Return unified product output  
+
+Input:
+{{USER_INPUT}}"
