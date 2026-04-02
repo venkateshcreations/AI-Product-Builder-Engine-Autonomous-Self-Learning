@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-The AI Product Builder Engine is an autonomous, self-learning system that transforms user ideas into complete products through intelligent multi-agent orchestration with memory-based learning capabilities.
+The AI Product Builder Engine is an autonomous, self-learning system that transforms user ideas into complete products through refined smart skills with memory-based learning capabilities.
 
 ---
 
