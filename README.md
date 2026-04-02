@@ -1,5 +1,11 @@
 # AI Product Builder Engine - Autonomous Memory Learning
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)](https://opensource.org/)
+[![Product System](https://img.shields.io/badge/Type-Product%20System-blue)](https://github.com/venkateshammireddy)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/venkateshammireddy)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/venkateshammireddy)
+
 **Author:** Venkatesh Ammireddy  
 **License:** MIT License  
 **Repository:** Open Source Contribution Welcome  
